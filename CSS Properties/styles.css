@@ -1,0 +1,11 @@
+/** This is a comment that the browser will ignore,
+* Put your CSS code into this file
+*/
+
+/** h1 selector */
+h1{
+    color: green; /** set the text color*/
+    font-family: "Times new roman" serif; /** set the text font family */
+    font-size: 20pt; /** set the font size */
+    text-align: center; /** set the text horizontal alignment */
+}
